@@ -22,7 +22,6 @@ Meus pilares de trabalho são:
 
 ## <span style="color:#06B6D4">📊 Estatísticas</span>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosConterno&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosConterno&layout=compact&theme=tokyonight" alt="Top Langs"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=MarcosConterno&theme=tokyonight" alt="GitHub Streak"/>
 </p>
