@@ -71,7 +71,7 @@ Meus pilares de trabalho são:
 </p>
 
 ## <span style="color:#06B6D4">📌 Projetos em destaque</span>
-🔹 [**Instituto-Edma**](https://github.com/MarcosConterno/Instituto-Edma) – Landing page institucional em **Next.js + Tailwind**.  
+🔹 [**Instituto-Edma**](https://github.com/MarcosConterno/Desenvolvimento_Site) – Landing page institucional em **Next.js + Tailwind**.  
 🔹 [**Calculadora-Orçamento**](https://github.com/MarcosConterno/calculadora-orcamento) – Aplicação em **React** para simulação de orçamentos.  
 🔹 Outros trabalhos relevantes (fora do GitHub):
 - **Automação** de fluxos internos com n8n.  
