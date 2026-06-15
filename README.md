@@ -20,16 +20,6 @@ Meus pilares de trabalho são:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:16A34A&height=2&section=footer" />
 </p>
 
-## <span style="color:#06B6D4">📊 Estatísticas</span>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosConterno&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=MarcosConterno&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:16A34A&height=2&section=footer" />
-</p>
-
 ## <span style="color:#06B6D4">🏢 Experiência Atual</span>
 ### **Analista de Projetos e Negócios – Loy Legal** *(fev/2025 - atual)*
 - ✅ Criação e gestão de fluxos de automação via **n8n**.  
@@ -59,11 +49,6 @@ Meus pilares de trabalho são:
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"/>
   <img alt="Redmine" src="https://img.shields.io/badge/Redmine-B32024?logo=redmine&logoColor=white"/>
   <img alt="DocMost" src="https://img.shields.io/badge/DocMost-0A0A0A?logo=readme&logoColor=white"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
